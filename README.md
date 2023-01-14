@@ -1,10 +1,8 @@
 # Stream cipher RC4
 
-An application for data encryption using the RC4 algorithm
-
 ## About
 
-Console program for `encrypting` and `decrypting` text using the `Salsa20` method
+Console program for `encrypting` and `decrypting` text using the `RC4` method
 
 ## Getting Started
 
