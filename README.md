@@ -1,17 +1,16 @@
 # Stream cipher RC4
 
-## About
+## О программе
 
-Console program for `encrypting` and `decrypting` text using the `RC4` method
+Консольная программа для `шифрования` и `дешифрования` текста с использованием метода `RC4`
 
-## Getting Started
+## Приступая к работе
 
-You need to copy the project to your computer in a convenient way
+Вам необходимо скопировать проект на свой компьютер удобным для вас способом
 
-## Usage <a name = "usage"></a>
+## Использование
+В консоли из каталога проекта:
 
-In the console from the project directory:
-
-Run the script in the `main.py` file and enter the key and message
+Запустите скрипт в файле `main.py` и введите ключ и сообщение
 
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/78900834/212477352-7be261e8-3f42-480b-8497-4b007b8d7374.png">
